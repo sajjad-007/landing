@@ -1,0 +1,65 @@
+:root{
+    --blue: blueviolet;
+}
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+
+}
+ul,ol{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6{
+    line-height: .8;
+}
+.container{
+    width: 1110px;
+    margin: 0 auto;
+}
+/* ========Navbar code start======== */
+nav{
+    padding: 18px 0;
+    /* background-color: var(--blue); */
+}
+.nav_wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.nav_menu ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 60px;
+}
+.nav_menu ul li a{
+    color: #505F98;
+    font-feature-settings: 'liga' off, 'clig' off;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px; 
+    text-transform: capitalize;
+
+}
+/* ========Navbar code start======== */
+
+/* ========Navbar code start======== */
+/* ========Navbar code start======== */
+
+/* ========Navbar code start======== */
+/* ========Navbar code start======== */
+
+/* ========Navbar code start======== */
+/* ========Navbar code start======== */
+
+/* ========Navbar code start======== */
+/* ========Navbar code start======== */
+
+/* ========Navbar code start======== */
+/* ========Navbar code start======== */
